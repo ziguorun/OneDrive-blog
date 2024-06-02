@@ -1,2 +1,0 @@
-# OneDrive-blog
-OneDrive blog
